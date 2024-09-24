@@ -1,5 +1,5 @@
 # Installing Docker and Running a Trading Bot
-## On Raspberry Pi (Linux)
+## On a Linux System
 
 - Update Your Package Index: 
     ```bash
