@@ -1,5 +1,5 @@
 [package]
-name = "tradingbot4"
+name = "rust_app_name"
 version = "0.1.0"
 edition = "2021"
 
