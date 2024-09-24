@@ -38,15 +38,15 @@
 
 ## On Windows
 
--Download Docker Desktop: Go to the Docker Desktop website and download the installer.
+- Download Docker Desktop: Go to the Docker Desktop website and download the installer.
 
--Install Docker Desktop: Run the installer and follow the on-screen instructions. Ensure you have WSL 2 enabled if prompted.
+- Install Docker Desktop: Run the installer and follow the on-screen instructions. Ensure you have WSL 2 enabled if prompted.
 
--Open PowerShell or Command Prompt: You can do this by searching for "PowerShell" or "cmd" in the Start menu.
+- Open PowerShell or Command Prompt: You can do this by searching for "PowerShell" or "cmd" in the Start menu.
 
--Run Docker: After installation, you can start Docker Desktop. You may need to wait a moment for Docker to initialize.
+- Run Docker: After installation, you can start Docker Desktop. You may need to wait a moment for Docker to initialize.
 
--Run the Trading Bot: Use the following command: `docker run --rm rust_app_name`
+- Run the Trading Bot: Use the following command: `docker run --rm rust_app_name`
 
 ## Development
 
